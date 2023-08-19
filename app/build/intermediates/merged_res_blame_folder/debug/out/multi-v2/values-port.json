@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.palahsu.ttt.app-mergeDebugResources-13:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nandha\\.gradle\\caches\\transforms-3\\7208d67472441715d1167eab9181d58e\\transformed\\appcompat-1.1.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

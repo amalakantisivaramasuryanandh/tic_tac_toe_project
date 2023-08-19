@@ -1,0 +1,4 @@
+#Sat Aug 19 14:12:09 IST 2023
+base.0=C\:\\Users\\nandha\\Downloads\\Tic_Tac_Toe-main\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
